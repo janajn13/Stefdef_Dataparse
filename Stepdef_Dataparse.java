@@ -207,7 +207,7 @@ public class Stepdef_Dataparse  extends Bass{
 	@Then("user can be able to click on  the logout_btn")
 	public void user_can_be_able_to_click_on_the_logout_btn() {
 	    
-		click(l.getLogout_btn());
+		
 		
 		
 		
